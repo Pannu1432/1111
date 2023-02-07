@@ -9,8 +9,8 @@
 <p align="center">
 <div align=center>
 
-[![GitHub forks](https://img.shields.io/github/forks/weebzone/WZML?style=social)](https://github.com/weebzone/WZML/fork)
-[![GitHub followers](https://img.shields.io/github/followers/weebzone?style=social&label=weebzone%20Followers)](https://github.com/weebzone)
+[![GitHub forks](https://img.shields.io/github/forks/weebzone/WZML?style=social)](https://github.com/Maheshbot99/LeechBot/fork)
+[![GitHub followers](https://img.shields.io/github/followers/weebzone?style=social&label=weebzone%20Followers)](https://github.com/Maheshbot99)
 
 ----
 

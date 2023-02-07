@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="https://github.com/weebzone/WZML">
+    <a href="https://github.com/Maheshbot99/LeechBot">
         <kbd>
             <img width="250" src="https://te.legra.ph/file/b2ddddf654411d50192c6.jpg" alt="WeebZone Logo">
         </kbd>
